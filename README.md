@@ -1,4 +1,4 @@
-# Clase 3 — Los procesos que generan las funciones
+# Ejercicio 3 — Los procesos que generan las funciones
 
 Fundamentos de Programación Funcional y Concurrente
 Escuela de Ingeniería de Sistemas y Computación, Universidad del Valle
